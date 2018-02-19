@@ -3,10 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/tr.iml" filepath="$PROJECT_DIR$/.idea/tr.iml" />
+      <module fileurl="file://C:\Users\HP\AndroidStudioProjects\tr1\app\app.iml" filepath="C:\Users\HP\AndroidStudioProjects\tr1\app\app.iml" />
+      <module fileurl="file://C:\Users\HP\AndroidStudioProjects\tr1\.idea\tr.iml" filepath="C:\Users\HP\AndroidStudioProjects\tr1\.idea\tr.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tr1.iml" filepath="$PROJECT_DIR$/.idea/tr1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/tr2.iml" filepath="$PROJECT_DIR$/.idea/tr2.iml" />
+      <module fileurl="file://C:\Users\HP\AndroidStudioProjects\tr1\.idea\tr1.iml" filepath="C:\Users\HP\AndroidStudioProjects\tr1\.idea\tr1.iml" />
+      <module fileurl="file://C:\Users\HP\AndroidStudioProjects\tr1\.idea\tr2.iml" filepath="C:\Users\HP\AndroidStudioProjects\tr1\.idea\tr2.iml" />
     </modules>
   </component>
 </project>
