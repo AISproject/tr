@@ -19,4 +19,7 @@ public class MainActivity extends AppCompatActivity {
         int i=0;
     }
 
+    public void newmethod3(){int u=2;
+    }
+
 }
